@@ -1,0 +1,4 @@
+have an array of objects. these objects are targets which hold their position and color values. when we click on the target then we need to update teh color of the targer and can use the stored position and radius value to make sure we are within the range
+
+45 50 = -5 distance ^ 25
+45 40
