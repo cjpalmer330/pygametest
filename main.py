@@ -37,7 +37,7 @@ class main:
         i += 1
 
     # drawing
-    timeLength = 5
+    timeLength = 15
     timeBeforeReset = timeLength * 60  # 60 is fps
     font = pygame.font.SysFont('Helvetica', 48)
     pushedStart, targetCount, highScore = 0, 0, 0
